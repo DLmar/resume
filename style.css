@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo-contacts-skills-block{
+    width: 250px;
+    height: 700px;
+    background-color: #0C084F;
+}
+
+.photo-contacts-skills-block img{
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+}
+
+.education-projects{
+    width: 650px;
+}
+
+.contacts, .skills{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin: 20px 0 20px 20px;
+
+
+
+}
+
+.phone, .email{
+    display: flex;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.phone-num, .email-info{
+    color: darkgrey;
+    margin-left: 10px;
+    font-family: "Arial Narrow";
+}
+
+.skills-details{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 10px 0 0 20px;
+}
+
+.skills-details ul{
+    color: orange;
+}
+
+.points{
+    color: #FB6D3A;
+}
+
+.points p{
+    font-family: "Lucida Sans Unicode";
+    color: white;
+}
+
+.description{
+    width: 400px;
+    height: 120px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+
